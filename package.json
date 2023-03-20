@@ -2,7 +2,7 @@
   "id": "9ec34c56-cf85-4485-898a-1db5db22c05a",
   "name": "svelte-webpack",
   "version": "0.0.0",
-  "description": "Svelte/Webpack Template",
+  "description": "Svelte/Webpack Template with OpenLayers",
   "keywords": [
     "svelte",
     "webpack",
