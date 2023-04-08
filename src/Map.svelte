@@ -20,7 +20,7 @@
 
     const destroy = () => {
       if (map) {
-        map.setTarget(null)
+        map.dispose()
         map = null
       }
     }
